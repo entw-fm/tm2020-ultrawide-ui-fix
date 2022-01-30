@@ -2,4 +2,8 @@
 name     = "Ultrawide UI fix"
 author   = "Eierpflanze / Meyer#0001"
 category = "In Game"
-version = "2.0"
+version = "2.0.1"
+siteid = 76
+
+[script]
+imports = [ "Icons.as" ]

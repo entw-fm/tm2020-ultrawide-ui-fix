@@ -38,8 +38,7 @@ void Main()
 
 void RenderMenu()
 {
-	//Todo properly do icon 🤔
-	if (UI::MenuItem("\\$f9f\\$z Ultrawide UI fix", "", isOn)) {
+	if (UI::MenuItem("\\$93f"+Icons::Television+"\\$z Ultrawide UI fix", "", isOn)) {
 		isOn = !isOn;
 	}
 }

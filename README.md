@@ -18,3 +18,7 @@ Version 2.0
 - COTD fixed
 - Medals fixed
 - Race time gaps fixed
+
+Version 2.0.1
+- Added siteid
+- Fixed menu icon
